@@ -1,5 +1,4 @@
 FROM almalinux:10
 ENV COURSE="DevOps"\
-    TRAINER="Sivakumar""\
+    TRAINER="Sivakumar"\
     DURATION="120 Hrs"
-    
