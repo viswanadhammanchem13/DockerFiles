@@ -1,0 +1,2 @@
+FROM almalinux:10
+CMD ["ping","google.com"]
